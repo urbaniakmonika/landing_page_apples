@@ -7,7 +7,7 @@
 ![screenshot](assets/photos/Readmd.jpg)
 
 # About 
-This project is focused on learning and practicing CSS Flexbox. It includes various examples and exercises to help understand how Flexbox works for creating flexible and responsive layouts.
+This project is focused on learning and practicing CSS Flexbox. It includes various examples and exercises to help understand how Flexbox works for creating flexible <span style="color:red">and responsive layouts</span> - SOON
 
 # Technologies 
 - HTML5
