@@ -8,7 +8,6 @@
 
 # About 
 This project is focused on learning and practicing CSS Flexbox. It includes various examples and exercises to help understand how Flexbox works for creating flexible.
-Responsive layouts - SOON
 
 # Technologies 
 - HTML5
